@@ -23,4 +23,4 @@ The model analyzes key geographical coordinates and atmospheric pollutant concen
 ## Hey wanna run this locally?
 1. Clone this repository:
 ```bash
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+git clone [https://github.com/raocious/AQI.git](https://github.com/raocious/AQI.git)
